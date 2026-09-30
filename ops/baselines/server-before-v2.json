@@ -1,0 +1,29 @@
+{
+  "hostKeySha256": "SHA256:zWv+9xClqeOUiz/PcV1fEjQtzR13fD2wJsdvKhNNjOU",
+  "listeners": [22, 53, 2024, 3000, 5432, 39703],
+  "commits": {
+    "oldFrontend": "78dbb73",
+    "oldAgent": "a182ca0",
+    "v2Frontend": "78dbb73",
+    "v2Agent": "a182ca0"
+  },
+  "counts": {
+    "oldPublicTables": 11,
+    "oldYouzanProducts": 3876,
+    "v2PublicTables": 11,
+    "v2YouzanProducts": 3876,
+    "restoreCheckDatabases": 0,
+    "dpapiEnvEntries": 2,
+    "dpapiEncryptedBytes": 1128
+  },
+  "backupSha256": {
+    "frontend.bundle": "f5d6d97cc8c99d8d5d77c5000cb01311bb7211199a760545d20cb663efc2a494",
+    "agent.bundle": "f00766390b6a2cad3abc5841aa4bed2bbe5ced06c56ca882ffb18d5fe19fc359",
+    "linglongzivectordb.dump": "3f30803711a34d625d174edb2c3c392b470a65301c05b3591685edd935465389",
+    "pm2-processes.txt": "b8cb92ace1ab5a8f4ba40270687af8ab00ab11500baa0993852bc2b786a93fc4",
+    "systemd-services.txt": "dd19cbcfeeb8355ab84d402a9509f15c28b58fca14eb8517ecfe0e2a4997f50c",
+    "listeners.txt": "ed0f9cc45c0641cc585703de6d9ea64bf43d3afd0b16aca0d1cc116a90344fe8",
+    "env-files.tar.gz": "9642ebead27917e348565c7b493f6fef7ef35b0a52faf66184137789af79d13f",
+    "dpapiCiphertext": "8f62744f1ba26f9b15dcaeb660ec65af9a6a313725c395eac2c50233ddfb9e6c"
+  }
+}
